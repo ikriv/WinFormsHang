@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysteriousHang", "MysteriousHang\MysteriousHang.csproj", "{DD64466B-4211-4FB6-BCD9-BA121A6C4EAA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freezer", "Freezer\Freezer.csproj", "{643EFBD4-F02D-481F-8BD4-DED66CD63800}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DD64466B-4211-4FB6-BCD9-BA121A6C4EAA}.Debug.ActiveCfg = Debug|.NET
+		{DD64466B-4211-4FB6-BCD9-BA121A6C4EAA}.Debug.Build.0 = Debug|.NET
+		{DD64466B-4211-4FB6-BCD9-BA121A6C4EAA}.Release.ActiveCfg = Release|.NET
+		{DD64466B-4211-4FB6-BCD9-BA121A6C4EAA}.Release.Build.0 = Release|.NET
+		{643EFBD4-F02D-481F-8BD4-DED66CD63800}.Debug.ActiveCfg = Debug|.NET
+		{643EFBD4-F02D-481F-8BD4-DED66CD63800}.Debug.Build.0 = Debug|.NET
+		{643EFBD4-F02D-481F-8BD4-DED66CD63800}.Release.ActiveCfg = Release|.NET
+		{643EFBD4-F02D-481F-8BD4-DED66CD63800}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
